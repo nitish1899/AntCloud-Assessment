@@ -52,7 +52,7 @@ cd antcloud-auth
 
 - Replace secrets with secure random strings.
 
-- Running the Server
+### 4. Running the Server
 - local
 
 ```bash
